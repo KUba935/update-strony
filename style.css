@@ -1,0 +1,53 @@
+body{
+   background-color: rgb(165, 87, 87);
+   height: 300vh
+}
+
+h2{
+   
+    background-color: aliceblue;
+}
+h3{
+    background-color: rgb(70, 182, 5);
+  
+    
+
+}
+ a{
+    background-color: rgb(255, 0, 0);
+ }
+
+ 
+h4{
+    background-color: gold;
+} 
+
+
+h3{
+    background-color: rgb(245, 241, 45);
+}
+th{
+ 
+  background-color: rgba(146, 11, 11, 0.767);
+}
+ol{
+    background-color: lightsalmon;
+}
+tr{
+    background-color: burlywood;
+}
+h1{
+  background-color: rgb(4, 146, 16);
+}
+
+
+
+
+
+
+
+
+
+    
+
+
